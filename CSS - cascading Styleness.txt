@@ -1,0 +1,29 @@
+CSS - cascading Styleness
+
+Selector {}
+p{
+    color:Blue;
+}
+
+selector ->target a html element
+property ->define what to Style
+value ->define how to Style
+
+1. universal selector (*) - applies to all elemets
+*{ color:red; }
+
+2. Element Selector - targets elememnts of a specific type
+form {}
+table{}
+ol {}
+3. Class selector - targets elements with a specific class attribute
+
+<h3 class="blue _highlight"></h3>
+<p class="blue_highlight"></p>
+
+.blue_highlight {....}
+
+4. ID selector
+<ol id=:list"></ol>
+5. group Selector
+p, h3, h6, form, table, ul {.....}
