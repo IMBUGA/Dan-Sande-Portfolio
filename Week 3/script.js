@@ -8,7 +8,7 @@
             const greeting = document.getElementById("greeting");
             let greetings = ["Hello!", "Welcome!", "Hi, I'm Daniel!", "Nice to meet you!"];
             let index = 0;
-        }
+        });
             document.addEventListener("DOMContentLoaded", function () {
                 const greeting = document.getElementById("greeting");
                 if (!greeting) {

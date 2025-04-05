@@ -63,3 +63,19 @@ body {
     align-items: center;
     border-radius: 10px;
 }
+.cv-button {
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.cv-button:hover {
+    background-color: blue;
+}
+.cv-button:active {
+    background-color: blue;
+}
+.cv-button:focus {
+    outline: none;
+}
