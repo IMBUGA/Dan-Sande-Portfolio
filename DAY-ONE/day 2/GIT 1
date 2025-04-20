@@ -1,8 +1,0 @@
-git config --global user.name "IMBUGA"
-git config --global user.email "danmarksande@gmail.com"
-git config --global --list
-print ("hello world")
-print("clone")
-i =10
-y=20
-print(i+y)
